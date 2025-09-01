@@ -3,3 +3,5 @@
 
 ## Instrucciones de instalación
 * ``` Abre tu navegador de preferencia```
+
+## Librerías necesarias
